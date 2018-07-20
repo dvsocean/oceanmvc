@@ -10,3 +10,5 @@ public class OceanmvcApplication {
 		SpringApplication.run(OceanmvcApplication.class, args);
 	}
 }
+
+
